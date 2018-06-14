@@ -1,1 +1,3 @@
 naoincluir.txt
+*.log
+log/
