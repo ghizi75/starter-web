@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Antonio Ghizi -- Developer -- antonio.ghizi@educasfera.com.br
 
 # THANKS
 
